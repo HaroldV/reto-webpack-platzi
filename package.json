@@ -1,0 +1,42 @@
+{
+  "name": "reto-webpack-platzi",
+  "version": "1.0.0",
+  "description": "Reto de desarrollar un proyecto utilizando webpack para Leonidas en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaroldV/reto-webpack-platzi.git"
+  },
+  "keywords": [
+    "platzi",
+    "webpack",
+    "reto-webpack",
+    "curso",
+    "de",
+    "webpack"
+  ],
+  "author": "Harold Villalobos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaroldV/reto-webpack-platzi/issues"
+  },
+  "homepage": "https://github.com/HaroldV/reto-webpack-platzi#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  }
+}
