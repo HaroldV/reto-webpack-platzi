@@ -1,8 +1,8 @@
 # Reto webpack del curso de Platzi
 Este es un proyecto creado para el curso de Webpack de Platzi
 
-#Autor
+# Autor
 @haroldv22
 
-Licencia
+# Licencia
 MIT
